@@ -1,0 +1,9 @@
+source,metric,status,latest,age_days,max_age_days,records,missing_values,future_dates
+sec_aapl,Assets,healthy,2026-08-01,80,150,1,0,0
+sec_aapl,NetIncomeLoss,healthy,2026-08-01,80,150,1,0,0
+sec_aapl,NetCashProvidedByUsedInOperatingActivities,healthy,2026-08-01,80,150,1,0,0
+sec_msft,Assets,healthy,2026-08-01,80,150,1,0,0
+sec_msft,NetIncomeLoss,missing,,,150,0,0,0
+sec_msft,NetCashProvidedByUsedInOperatingActivities,healthy,2026-08-01,80,150,1,0,0
+fred_fx,DEXUSEU,warning,2026-10-19,1,7,10,1,0
+fred_rate,FEDFUNDS,stale,2026-07-12,100,75,10,0,0

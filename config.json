@@ -1,0 +1,8 @@
+{
+  "sources": [
+    {"id":"sec_aapl","kind":"sec","cik":"0000320193","metrics":["Assets","NetIncomeLoss","NetCashProvidedByUsedInOperatingActivities"],"max_age_days":150},
+    {"id":"sec_msft","kind":"sec","cik":"0000789019","metrics":["Assets","NetIncomeLoss","NetCashProvidedByUsedInOperatingActivities"],"max_age_days":150},
+    {"id":"fred_fx","kind":"fred","series":"DEXUSEU","unit":"USD per EUR","max_age_days":7},
+    {"id":"fred_rate","kind":"fred","series":"FEDFUNDS","unit":"Percent, monthly","max_age_days":75}
+  ]
+}
